@@ -44,7 +44,7 @@ function my_custom_icons() {
 3. Connect icons to taxonomies on their corresponding menus
 4. Use the following functions in your templates to show term lists with icons:
   * Single post: `tfi_the_taxonomies( 'post_tag' );`
-  * To list taxonomies: `tfi_all_taxonomies( array( 'category', 'post_tag' ) );
+  * To list taxonomies: `tfi_all_taxonomies( array( 'category', 'post_tag' ) )`;
 
 == Screenshots ==
 1. List of tags with their icons.
